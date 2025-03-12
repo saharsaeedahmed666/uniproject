@@ -5,5 +5,7 @@ class program
     {
         Console.writeline("hello world")
          Console.writeline("hello world")
+         Console.writeline("hello world")
+         Console.writeline("hello world")
        }   
 }
